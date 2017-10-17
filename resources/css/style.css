@@ -7,17 +7,22 @@ h1 {
   font-weight: normal;
   font-size: 50px;
   color: white;
-  text-align: center;
 }
 h2 {
   font-weight: 300;
   font-size: 42px;
+  color: white;
+  text-align: center;
 }
 a {
   color: aquamarine;
-  font-size: 16px
+  font-size: 16px;
 }
 p {
   font-size: 21px;
   color: gray;
+}
+copyright p {
+  color: gray;
+  text-align: right;
 }
